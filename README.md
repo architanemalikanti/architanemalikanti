@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Archita!
 
 <!--
 **architanemalikanti/architanemalikanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Interests ⚡
+- 🔍 **My interests are vast: Machine Learning, Backend Development, iOS Development, Embedded Systems, and Robotics. **
+- 🤝 **I have a track record in building embedded systems projects, which integrated knowledge in ML, app development, Raspberry Pi and other hardware system, etc.**
+
+## About Me 😄
+I love singing and dancing; deep down I am a very creative person!
+
+Let's connect and collaborate!
