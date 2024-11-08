@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 💻 Full stack, machine learning, iOS, and embedded systems developer. 
 
-🌎 Experienced in building systems from **ground up**. This includes designing hardware circuitry, hardware to backend application communication, application development, and more. My skills are vast!
+🌎 Experienced in building systems from **ground up**. This includes designing hardware circuitry, hardware to backend application communication, application development, and more. My skills are vast! 
+
+⚡ My work in technology has been featured in MIT News, Times of India, and more! 
 
 ## About Me 😄
 I love singing and dancing; deep down I am a very creative person!
