@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Archita!
+## Hey, I'm Archita!👋
 
 <!--
 **architanemalikanti/architanemalikanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Interests ⚡
-- 🔍 **My interests are vast: Machine Learning, Backend Development, iOS Development, Embedded Systems, and Robotics. **
-- 🤝 **I have a track record in building embedded systems projects, which integrated knowledge in ML, app development, Raspberry Pi and other hardware system, etc.**
+🎓 Pursuing a Computer Engineering (ECE) degree at Cornell University
+💻 Full stack, machine learning, iOS, and embedded systems developer. 
+🌎 Experienced in building systems from **ground up**. This includes designing the hardware circuit, hardware to backend application communication, application development, and more. 
 
 ## About Me 😄
 I love singing and dancing; deep down I am a very creative person!
-
-Let's connect and collaborate!
