@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 🎓 Pursuing a Computer Engineering (ECE) degree at Cornell University
+
 💻 Full stack, machine learning, iOS, and embedded systems developer. 
+
 🌎 Experienced in building systems from **ground up**. This includes designing the hardware circuit, hardware to backend application communication, application development, and more. 
 
 ## About Me 😄
