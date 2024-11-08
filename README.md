@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 🎓 Pursuing a Computer Engineering (ECE) degree at Cornell University
 
-💻 Full stack, machine learning, iOS, and embedded systems developer. 
+💻 Full stack, machine learning, iOS, and embedded systems engineer. 
 
 🌎 Experienced in building systems from **ground up**. This includes designing hardware circuitry, hardware to backend application communication, application development, and more. My skills are vast! 
 
-⚡ My work in technology has been featured in MIT News, Times of India, and more! 
+⚡ My work in technology has been featured in MIT News, the Times of India, and more! 
 
 ## About Me 😄
 I love singing and dancing; deep down I am a very creative person!
