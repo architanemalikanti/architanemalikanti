@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
  Apple Intern '25 where I built an iOS app for Apple's next, huge, revolutionary, product! Presented my work to John Ternus, the next CEO of Apple, and my internship project is in the works of getting approved by higher ups!
 
+📱 Published an app to the app store, called "Glow", aiming to reimagine what social media in the AI era. 
+
+🌲 I'm a Tree Hacks '25 & YC AI Startup School'25 attendee!
+
 ⚡ My work in technology has been featured the Times of India, MIT News, and more! 
