@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 🌎 Experienced in building systems from **ground up**. This includes designing hardware circuitry, hardware to backend application communication, application development, and more. My skills are vast! 
 
 ⚡ My work in technology has been featured the Times of India, MIT News, and more! 
-
-## About Me 😄
-I love singing and dancing; deep down I am a very creative person!
