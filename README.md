@@ -19,8 +19,4 @@ Here are some ideas to get you started:
 
  Apple Intern '25 where I built an iOS app for Apple's next, huge, revolutionary, product! Presented my work to John Ternus, the next CEO of Apple, and my internship project is in the works of getting approved by higher ups!
 
-💻 Full stack, machine learning, iOS, and embedded systems engineer. 
-
-🌎 Experienced in building systems from **ground up**. This includes designing hardware circuitry, hardware to backend application communication, application development, and more. My skills are vast! 
-
 ⚡ My work in technology has been featured the Times of India, MIT News, and more! 
