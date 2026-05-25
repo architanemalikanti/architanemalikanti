@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 🎓 Pursuing a Computer Engineering (ECE) degree at Cornell University
 
+🍎 Intern '25 at Apple  where I built an iOS app for Apple's next, huge, revolutionary, product! 
+
 💻 Full stack, machine learning, iOS, and embedded systems engineer. 
 
 🌎 Experienced in building systems from **ground up**. This includes designing hardware circuitry, hardware to backend application communication, application development, and more. My skills are vast! 
