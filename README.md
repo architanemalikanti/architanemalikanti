@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 Pursuing a Computer Engineering (ECE) degree at Cornell University
 
-🍎 Intern '25 at Apple  where I built an iOS app for Apple's next, huge, revolutionary, product! 
+ Apple Intern '25 where I built an iOS app for Apple's next, huge, revolutionary, product! Presented my work to John Ternus, the next CEO of Apple, and my internship project is in the works of getting approved by higher ups!
 
 💻 Full stack, machine learning, iOS, and embedded systems engineer. 
 
