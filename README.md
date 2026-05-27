@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Pursuing a Computer Engineering (ECE) degree at Cornell University
+🎓 Student at Cornell University
 
   Apple Intern '25 where I built an iOS app for Apple's next, huge, revolutionary, product! Presented my work to John Ternus, the next CEO of Apple, and my internship project is in the works of getting approved by higher ups!
 
